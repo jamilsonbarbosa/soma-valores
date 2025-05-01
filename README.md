@@ -1,6 +1,5 @@
 # soma-valores
 App PWA para somar valores extraídos de imagens via OCR com Tesseract
-# soma-valores
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
